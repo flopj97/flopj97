@@ -8,14 +8,14 @@
 
  * Corruptdept
  * proship
+ * Minor
 
 
  **ME**
 
   * usually afk
   * im very shy
-  * i love talking about betrayedking, betrayedking my life.
-  * i love betrayedking a little amount (get freak out if i see a demon king cosplay)
+  * i love betrayedking a little amount 
 
 
 
