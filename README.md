@@ -1,5 +1,3 @@
-**!** 
-![one of my betrayedking art](https://github.com/flopj97/CEOofBETRAYEDKING/blob/main/btrkdk.png?raw=true)
 
 
 
