@@ -66,4 +66,24 @@
 </p>
 
 <!-- OPTIONAL QUOTE -->
-<h3 
+<h3 align="center">
+  <span style="color:#990000;">
+    ❝ I'M DOEING OUT ❞
+  </span>
+</h3>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AFK-darkred?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AURA-CRIMSON-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TITLE-DEMON_KING-8B0000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/rose.gif?raw=true" width="350">
+</p>
+
+<!-- END DIVIDER -->
+<p align="center">
+  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80257_20260515130923.png?raw=true" width="100%">
+</p> 
