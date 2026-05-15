@@ -5,7 +5,7 @@
 
 <!-- MAIN ART -->
 <p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80256_20260515124845.png?raw=true" width="100%">
+  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80256_20260515124845.png?raw=true" width="70%">
 </p>
 
 <p align="center">
