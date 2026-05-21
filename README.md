@@ -3,19 +3,17 @@
   <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173007.jpeg?raw=true" width="100%">
 </p>
 
-
-
 <!-- IMAGE 1 -->
 <p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" width="78%">
+  <img 
+  src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" 
+  width="78%"
+  style="transform: scaleX(-1);">
 </p>
-
-
 <!-- ANIMATION TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=42&pause=1000&color=57242F&center=true&vCenter=true&width=1200&height=80&lines=TRUE+LOVE+FOREVER+BETRAYEDKING!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=42&pause=1000&color=D45246&center=true&vCenter=true&width=1200&height=80&lines=TRUE+LOVE+FOREVER+BETRAYEDKING!">
 </p>
-
 
 <br><br>
 <!-- GIF DIVIDER -->
