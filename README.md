@@ -29,9 +29,15 @@
 <p align="center">
   <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
 </p>
+<br>
+<!-- SOCIALS -->
+<div align="center">
 
-<br><br>
+<a href="https://x.com/flopj97">𝗍𝗐𝗂𝗍𝗍𝖾𝗋</a>
+&nbsp;&nbsp;&nbsp;୨ৎ&nbsp;&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@flopj97?lang=en">𝗍𝗂𝗄𝗍𝗈𝗄</a>
 
+</div>
 <!-- BANNERS -->
 <p align="center">
   <img src="https://img.shields.io/badge/HELL_OVERLORD-57242F?style=for-the-badge">
