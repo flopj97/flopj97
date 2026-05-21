@@ -3,12 +3,10 @@
   <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173007.jpeg?raw=true" width="100%">
 </p>
 
-<!-- IMAGE 1 -->
-<p align="center">
+<p align="center" style="margin:0;padding:0;">
   <img 
-  src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" 
-  width="78%"
-  style="transform: scaleX(-1);">
+    src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Không%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" 
+    style="width:100vw; max-width:100vw; transform: scaleX(-1); display:block;">
 </p>
 <!-- ANIMATION TEXT -->
 <p align="center">
