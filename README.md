@@ -3,19 +3,13 @@
   <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173007.jpeg?raw=true" width="100%">
 </p>
 
-<!-- GIF DIVIDER -->
-<p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
-</p>
 
-<br>
 
 <!-- IMAGE 1 -->
 <p align="center">
   <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" width="78%">
 </p>
 
-<br>
 
 <!-- ANIMATION TEXT -->
 <p align="center">
@@ -24,10 +18,18 @@
 
 
 <br><br>
+<!-- GIF DIVIDER -->
+<p align="center">
+  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
+</p>
 
 <!-- FULL BIO -->
 <p align="center">
   <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/fullbio.png?raw=true" width="82%">
+</p>
+<!-- GIF DIVIDER -->
+<p align="center">
+  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
 </p>
 
 <br><br>
@@ -64,10 +66,6 @@
 
 <br>
 
-<!-- GIF DIVIDER -->
-<p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
-</p>
 
 <!-- DIVIDER 2 -->
 <p align="center">
