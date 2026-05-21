@@ -1,120 +1,75 @@
-<!-- TOP DIVIDER -->
+<!-- DIVIDER 1 -->
 <p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80257_20260515130925.png?raw=true" width="100%">
+  <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173007.jpeg?raw=true" width="100%">
 </p>
 
-<!-- MAIN ART -->
+<!-- GIF DIVIDER -->
 <p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80256_20260515124845.png?raw=true" width="80%">
+  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
 </p>
 
+<br>
+
+<!-- IMAGE 1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=YOU+SO+DONE%2C+I+JUST+GOT+WALL+HACK">
-</p>
-<br>
-
-<!-- TITLE -->
-<h1 align="center">
-  °。 ⋆ 𝕿𝕳𝕰 𝕯𝕰𝕸𝕺𝕹 𝕶𝕴𝕹𝕲 ⋆。°
-</h1>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURNAME&label=SOULS+VISITED&color=8B0000&style=for-the-badge">
-</p>
-<br>
-<br>
-<!-- ROSE DIVIDER -->
-<p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80257_20260515130937.png?raw=true" width="350">
-</p>
-<br>
-<!-- INTRODUCTION -->
-<details align="center">
-  <summary><b>𝖨𝖭𝖳𝖱𝖮𝖣𝖴𝖢𝖳𝖨𝖮𝖭</b></summary>
-
-  <br>
-
-$\texttt{\color{#8B0000}{\ she/her/they}}$
-
-$\texttt{\color{#8B0000}{\ go\ by\ Fuji\ and\ flopj97\ everywhere}}$
-
-$\texttt{\color{#8B0000}{\ 18\ this\ year}}$
-
-$\texttt{\color{#8B0000}{\ currently\ in\ Nullscape\ fandom!!}}$
-
-$\texttt{\color{#8B0000}{\ feel\ free\ to\ interact\ and\ c+h\ with\ me}}$
-
-$\texttt{\color{#8B0000}{\ follow\ my\ X\ and\ Tiktok}}$
-
-$\texttt{\color{#8B0000}{\ my\ big\ kin\ on\ 1x1x1x1\ and\ super\ addictive\ to\ betrayedking}}$
-
-$\texttt{\color{#8B0000}{\ PLS\ dnc\ my\ skin\ or\ take\ inspire\ unless\ give\ permission}}$
-
-</details>
-<br>
-<!-- DNI -->
-<details align="center">
-  <summary><b>𝖣𝖭𝖨</b></summary>
-
-  <br>
-
-$\texttt{\color{#8B0000}{ corruptdept}}$
-
-$\texttt{\color{#8B0000}{ proship}}$
-
-$\texttt{\color{#8B0000}{ minors unless u cool}}$
-
-</details>
-
-<br>
-
-<!-- ABOUT ME -->
-<details align="center">
-  <summary><b>𝖠𝖡𝖮𝖴𝖳 𝖬𝖤</b></summary>
-
-  <br>
-
-$\texttt{\color{#8B0000}{usually\ afk}}$
-
-$\texttt{\color{#8B0000}{im\ very\ shy\ or\ freaky}}$
-
-$\texttt{\color{#8B0000}{i\ love\ betrayedking\ a\ little\ amount}}$
-
-</details>
-<br>
-<!-- ROSE DIVIDER -->
-<p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80257_20260515130937.png?raw=true" width="350">
+  <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" width="78%">
 </p>
 
+<br>
+
+<!-- ANIMATION TEXT -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=42&pause=1000&color=57242F&center=true&vCenter=true&width=1200&height=80&lines=TRUE+LOVE+FOREVER+BETRAYEDKING!">
+</p>
+
+
 <br><br>
- <a href="https://x.com/flopj97">𝕏 / 𝕿𝖜𝖎𝖙𝖙𝖊𝖗</a>
-&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@flopj97?lang=en">𝕿𝖎𝖐𝕿𝖔𝖐</a>
 
+<!-- FULL BIO -->
+<p align="center">
+  <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/fullbio.png?raw=true" width="82%">
+</p>
+
+<br><br>
+
+<!-- BANNERS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HELL_OVERLORD-57242F?style=for-the-badge">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MASS_INFECTION-1f5c2c?style=for-the-badge">
+</p>
+
+
+<!-- GIF 1 + GIF 2 -->
+<table align="center">
+<tr>
+
+<td>
+<img src="https://github.com/flopj97/CEOofBETRAYEDKING/blob/38c69359e48c9561c5fba129bf003cd1c5d69530/66988de9-f0b2-4c69-a870-d13d5ccf8e3e.gif?raw=true" width="190">
+</td>
+
+<td width="15"></td>
+
+<td>
+<img src="https://github.com/flopj97/CEOofBETRAYEDKING/blob/38c69359e48c9561c5fba129bf003cd1c5d69530/509b8b74-829d-4ef8-8719-7a70327f09a7.gif?raw=true" width="190">
+</td>
+
+</tr>
+</table>
+</p>
+<!-- MEME -->
+<p align="center">
+  <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/be%CC%82tkiangkiss.png?raw=true" width="320">
 </p>
 
 <br>
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=IM+DOEING+OUT!">
-</p>
-<br>
-<br>
 
-<!-- BADGES -->
+<!-- GIF DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AFK-darkred?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AURA-CRIMSON-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TITLE-DEMON_KING-8B0000?style=for-the-badge">
+  <img src="https://github.com/flopj97/flopj97/blob/3137b88500326a76ced59661d63d76971e86ea2a/532D0267-4F3D-4B2A-8A9F-A5519B61C558.gif?raw=true" width="520">
 </p>
 
+<!-- DIVIDER 2 -->
 <p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/rose.gif?raw=true" width="350">
+  <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173005.jpeg?raw=true" width="100%">
 </p>
-
-<!-- END DIVIDER -->
-<p align="center">
-  <img src="https://github.com/flopj97/Flopflopandrew-yaoi/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80257_20260515130923.png?raw=true" width="100%">
-</p> 
