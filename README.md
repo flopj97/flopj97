@@ -3,10 +3,9 @@
   <img src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521173007.jpeg?raw=true" width="100%">
 </p>
 
-<p align="center" style="margin:0;padding:0;">
-  <img 
-    src="https://github.com/flopj97/flopj97/blob/f7376fa961a5b0dbd08158e8f5176a598bdc9b78/Không%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80265_20260521171713.jpeg?raw=true" 
-    style="width:100vw; max-width:100vw; transform: scaleX(-1); display:block;">
+<!-- IMAGE 1 -->
+<p align="center">
+  <img src="https://github.com/flopj97/flopj97/blob/14e49c288d147a5c22c3d9ee3510c4f7dba19a4d/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80270_20260522111911.png?raw=true" width="100%">
 </p>
 <!-- ANIMATION TEXT -->
 <p align="center">
@@ -21,7 +20,7 @@
 
 <!-- FULL BIO -->
 <p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/fullbio.png?raw=true" width="82%">
+  <img src="https://github.com/flopj97/flopj97/blob/14e49c288d147a5c22c3d9ee3510c4f7dba19a4d/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80269_20260522111749.png?raw=true" width="82%">
 </p>
 <!-- GIF DIVIDER -->
 <p align="center">
@@ -64,7 +63,7 @@ $\texttt{\color{#8B0000}{୨ৎ}}$
 </p>
 <!-- MEME -->
 <p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/be%CC%82tkiangkiss.png?raw=true" width="320">
+  <img src="https://github.com/flopj97/flopj97/blob/5a1ebb92e0a8af6306d35ccff240802e6e964cac/be%CC%82tkiangkiss.png?raw=true" width="200">
 </p>
 
 <br>
