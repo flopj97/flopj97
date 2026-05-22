@@ -5,7 +5,7 @@
 
 <!-- IMAGE 1 -->
 <p align="center">
-  <img src="https://github.com/flopj97/flopj97/blob/14e49c288d147a5c22c3d9ee3510c4f7dba19a4d/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80270_20260522111911.png?raw=true" width="100%">
+  <img src="https://github.com/flopj97/flopj97/blob/0cda2be4b0e8c23726ce3186afe2f4e74fbdd95e/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80270_20260522120017.png" width="100%">
 </p>
 <!-- ANIMATION TEXT -->
 <p align="center">
