@@ -29,7 +29,9 @@ width="38%">
 
 <h3>
 <p align="center">
-$\color{#d6c6ab}{\textsf{BIO\ FOR PT}}$
+$\large{\color{#d6c6ab}{\textsf{BIO\ FOR\ PT}}}$
+
+</p>
 
 </h3>
 
