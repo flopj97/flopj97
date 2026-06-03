@@ -46,9 +46,14 @@ $\color{#d6c6ab}{\textsf{BIO\ FOR PT}}$
 
 </td>
 </tr>
-
 </table>
-
+<br><br>
+<!-- BANNERS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/THE_CHOSEN_ONE-72677a?style=for-the-badge">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/THE_DARK_LORD-906c7f?style=for-the-badge">
+</p>
 </div>
 
 </div>
