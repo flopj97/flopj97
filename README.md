@@ -86,3 +86,6 @@ $\large{\color{#906c7f}{"i\ will\ destroy\ the\ world\ for\ you"}}$
 $\texttt{\color{#d6c6ab}{୨ৎ}}$
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@flopj97?lang=en">𝗍𝗂𝗄𝗍𝗈𝗄</a>
+&nbsp;&nbsp;&nbsp;
+$\texttt{\color{#d6c6ab}{୨ৎ}}$
+<a href="https://flopj97.atabook.org/?page=1">𝖺𝗍𝖺𝖻𝗈𝗈𝗄</a>
