@@ -29,7 +29,7 @@ width="38%">
 
 <h3>
 <p align="center">
-$\large{\color{#d6c6ab}{\textsf{BIO\ FOR\ PT}}}$
+$\large{\color{#d6c6ab}{\textsf{BIO\ FOR\ PONY TOWN}}}$
 
 </p>
 
@@ -38,7 +38,7 @@ $\large{\color{#d6c6ab}{\textsf{BIO\ FOR\ PT}}}$
 <p>
 
 𓆩♡𓆪 currently in AB AvA ୨ৎ Nullscape fd  
-𓆩♡𓆪 ship int: Chosen♡Dark ୨ৎ Victim♡Mitxi
+𓆩♡𓆪 ship int: Chosen♡Dark ୨ৎ Victim♡Mitsi
 <br>
 𓆩♡𓆪 DNI proshipper 
 <br>
